@@ -1,2 +1,2 @@
 # my-portfolio
-Portfolio website using React backend
+Portfolio website using vite build tool with React backend.
